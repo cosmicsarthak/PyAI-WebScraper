@@ -1,2 +1,2 @@
 # PyAI-WebScraper
-Pythion based AI Web Scraper
+Python based AI Web Scraper
